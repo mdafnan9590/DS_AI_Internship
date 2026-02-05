@@ -38,5 +38,5 @@ print( "Current Resolution: 1920x1080")
 print(screen_res)
 screen_res[0] = 1280
 print("Tuples cannot be modified")
- 
+
 
